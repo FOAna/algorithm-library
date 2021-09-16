@@ -16,4 +16,5 @@ Several sorting and search algorithms
 
 ### Other
 * [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)
-* Data_structure
+* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Dequeue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
